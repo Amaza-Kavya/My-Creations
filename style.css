@@ -1,0 +1,7 @@
+body{
+    text-align: center;
+    background-color:#ffe6f5;
+}
+img:hover{
+    transform: scale(0.9);
+}
